@@ -1,0 +1,12 @@
+[flake8]
+max-line-length = 120
+exclude =
+    .git,
+    __pycache__,
+    .venv,
+    .venv-1,
+    ai-car,
+    ai-learning-car,
+    build,
+    dist
+extend-ignore = E203, W503

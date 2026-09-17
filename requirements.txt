@@ -1,0 +1,6 @@
+# Core Simulation & Graphics Engine
+# pygame-ce (Community Edition) is recommended, but standard pygame is fully supported
+pygame-ce>=2.5.0
+
+# NeuroEvolution of Augmenting Topologies (Genetic Algorithms)
+neat-python>=0.9.2
